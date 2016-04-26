@@ -2,10 +2,11 @@ package teamBuilder;
 
 public class Team {
 
-	String name;
+	public String name;
+	public int index;
 	
-	public Team(int index) {
-		name = "nothing";
+	public Team(String name, int index) {
+		this.name = name;
 	}
 
 	public String getName() {
@@ -14,6 +15,6 @@ public class Team {
 
 	public void setName(String name) {
 		this.name = name;
-	}
+	}		
 	
 }
