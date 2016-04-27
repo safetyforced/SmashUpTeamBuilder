@@ -1,41 +1,41 @@
-Aliens
-Dinosaurs
-Ninjas
-Pirates
-Robots
-Tricksters
-Wizards
-Zombies
-Killer Plants
-Ghosts
-Steampunks
-Bear Cavalry
-Minions of Cthulhu
-Elder Things
-Innsmouth
+Aliens             
+Dinosaurs          
+Ninjas            
+Pirates            
+Robots              
+Tricksters          
+Wizards             
+Zombies           
+Killer Plants       
+Ghosts              
+Steampunks           
+Bear Cavalry         
+Minions of Cthulhu   
+Elder Things         
+Innsmouth            
 Miskatonic University
-Time Travellers
-Cyborg Apes
-Super Spies
-ShapeShifters
-Geeks
-Vampires
-Mad Scientists
-Giant Ants
-Werewolves
-Fairies
-Mythic Horses
-Kitty Cats
-Princesses
-Warriors
-Clerics
-Mages
-Rogues
-Orcs
-Dwarves
-Elves
-Halflings
-Dragons
-Mythic Greeks
-Sharks
-Superheroes
+Time Travellers     
+Cyborg Apes        
+Super Spies         
+ShapeShifters      
+Geeks              
+Vampires           
+Mad Scientists     
+Giant Ants        
+Werewolves          
+Fairies          
+Mythic Horses      
+Kitty Cats         
+Princesses       
+Warriors          
+Clerics           
+Mages            
+Rogues            
+Orcs             
+Dwarves           
+Elves            
+Halflings        
+Dragons          
+Mythic Greeks   
+Sharks           
+Superheroes       

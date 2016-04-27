@@ -38,7 +38,7 @@ public class TeamBuilder {
 					playerTeam[x - 1][i - 1] = teamSelection;
 					teamReturn[x - 1][i - 1] = findTeam(list, teamSelection);
 					exceptionList[exceptionListIncrement + (i)] = teamSelection;
-					System.out.print(list.get(teamSelection).getName() + "\t" + "\t");
+					System.out.print(list.get(teamSelection - 1).getName() + "\t");
 
 				}
 
@@ -53,7 +53,7 @@ public class TeamBuilder {
 	}
 
 	public static Team findTeam(ArrayList<Team> teams, int index) {
-		Team team = teams.get(index);
+		Team team = teams.get(index - 1);
 		return team;
 	}
 
